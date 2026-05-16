@@ -356,9 +356,20 @@ The peer review will take place **from 24 May to 29 May 2026**.
 
 **The detailed procedure will be shared in Week 10.**
 
-After the project , you will:
-- **Review two reports** from other teams (Part 1)  
-- **Evaluate the reviews received for your report** (Part 2)  
+Several days after the project submission deadline, you will receive 2 reports from other teams to review (**Peer Review – Part 1**).
+After the review period concludes, you will receive the reviews written for your own report and will need to score them (**Peer Review – Part 2**).
+
+**Peer Review - Part 1**
+
+Each student reviews 2 reports from other teams (randomly assigned). You are required to summarise the report, talk about the strengths and weaknesses (three comment sections). See [A4_part1_peerreview.pdf](https://github.com/drcarenhan/COMP90042_2026/blob/main/A4_part1_peerreview.pdf) for more details. Note that this constitutes the first part of Assignment 4, and it is an individual task, so you don't need to collaborate with your teammates to do the reviews (your teammates will receive their reports to review).
+**Peer Review – Part 1 Due: 27 May 2026**
+(Starts: 9:00 PM, 24 May 2026 — No extension)
+
+**Peer Review Scoring- Part 2**
+
+Each team receives a set of reviews for the team report. Each team should work together to score the reviews. See [A4_part2_peerscoring.pdf](https://github.com/drcarenhan/COMP90042_2026/blob/main/A4_part2_peerscoring.pdf) for more details. This is the second part of the Assignment 4, and it is a group task, as your team will need to distribute the reviews evenly among yourselves so that each review is scored by at least one member.
+**Peer Review – Part 2 Due: 29 May 2026**
+(Starts: 9:00 AM, 28 May 2026 — No extension)
 
 
 
